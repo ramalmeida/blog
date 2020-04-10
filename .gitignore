@@ -5,14 +5,14 @@
 /.pnp
 .pnp.js
 
-# code
-/src/firebase.js
-
 # testing
 /coverage
 
 # production
 /build
+
+# basedados
+firebaseoriginal.js
 
 # misc
 .DS_Store
